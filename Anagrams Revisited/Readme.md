@@ -4,15 +4,15 @@ Arnab is a robber and he has managed to rob N different strings from Akash. Now 
 
 An anagram of a string is another string that contains same characters, only the order of characters can be different. For example, “abcd” and “dabc” are anagram of each other.
 
-#Input:
+#Input
 
 First line of input contains an integer N, number of total strings. Next N lines contains a single string S.
 
-#Output:
+#Output
 
 Print the largest size of group of anagrams possible.
 
-#Constraints: 
+#Constraints
 
 1<=N<=100000
 
