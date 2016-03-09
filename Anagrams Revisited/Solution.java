@@ -13,7 +13,6 @@ class TestClass {
 	}
 	public static int countAnagram(String[] str){
 		int anagramCount=0;
-		HashMap map = new HashMap();
 		Map<String, Integer> hm = new HashMap<String,Integer>();
 		for (int i = 0; i < str.length; i++){
 			int count=0;
